@@ -27,3 +27,6 @@
 - [ ] Does that other thing
 - [ ] Is backward compatible with the previous thing
 - [ ] Work well with that That Feature
+
+## A Brand New Feature
+- [ ] It changes the world
